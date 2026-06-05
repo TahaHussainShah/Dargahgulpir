@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dargahgulpir.vercel.app/sitemap.xml
